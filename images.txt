@@ -1,3 +1,10 @@
 nginx
+nginxproxy/nginx-proxy nginx-proxy
 jupyter/scipy-notebook scipy-notebook
 codercom/code-server vscode
+whyour/qinglong qinglong
+lscr.io/linuxserver/qbittorrent qbittorrent
+corentinth/it-tools it-tools
+6053537/portainer-ce portainer
+dpanel/dpanel dpanel
+chevereto/chevereto chevereto
