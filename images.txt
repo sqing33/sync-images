@@ -1,2 +1,3 @@
 nginx
 jupyter/scipy-notebook scipy-notebook
+codercom/code-server vscode
