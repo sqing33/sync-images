@@ -1,10 +1,2 @@
 nginx
-whyour/qinglong
-lscr.io/linuxserver/qbittorrent
-corentinth/it-tools
-6053537/portainer-ce
-dpanel/dpanel
-wcjiang/reference
-chevereto/chevereto
-codercom/code-server
-jupyter/scipy-notebook
+jupyter/scipy-notebook scipy-notebook
