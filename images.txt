@@ -1,5 +1,4 @@
 nginx
-nginxproxy/nginx-proxy
 whyour/qinglong
 lscr.io/linuxserver/qbittorrent
 corentinth/it-tools
