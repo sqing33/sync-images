@@ -1,5 +1,4 @@
 nginx
-nginxproxy/nginx-proxy nginx-proxy
 jupyter/scipy-notebook jupyter-notebook 
 codercom/code-server vscode
 whyour/qinglong qinglong
