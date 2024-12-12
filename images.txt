@@ -1,3 +1,4 @@
+mysql/mysql-server mysql
 nginx
 jupyter/scipy-notebook jupyter-notebook 
 codercom/code-server vscode
