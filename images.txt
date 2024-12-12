@@ -1,4 +1,5 @@
 nginx
+php
 jupyter/scipy-notebook jupyter-notebook 
 codercom/code-server vscode
 whyour/qinglong qinglong
