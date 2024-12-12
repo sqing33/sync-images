@@ -1,5 +1,6 @@
 nginx
 php
+bitnami/php-fpm php-fpm
 jupyter/scipy-notebook jupyter-notebook 
 codercom/code-server vscode
 whyour/qinglong qinglong
