@@ -1,3 +1,4 @@
+mysql:9.1.0
 nginx
 jupyter/scipy-notebook jupyter-notebook 
 codercom/code-server vscode
