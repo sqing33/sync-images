@@ -1,6 +1,5 @@
 nginx
-php
-bitnami/php-fpm php-fpm
+php:8.1-fpm php
 jupyter/scipy-notebook jupyter-notebook 
 codercom/code-server vscode
 whyour/qinglong qinglong
