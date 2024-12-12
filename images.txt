@@ -1,4 +1,4 @@
-cym1102/nginxwebui
+cym1102/nginxwebui nginxwebui
 ghcr.io/raywangqvq/bilibili_tool_pro bilibili_tool
 mysql/mysql-server mysql
 nginx
