@@ -1,4 +1,5 @@
 p3terx/aria2-pro aria2
+p3terx/ariang aria2-webui
 cym1102/nginxwebui nginxwebui
 ghcr.io/raywangqvq/bilibili_tool_pro bilibili_tool
 mysql/mysql-server mysql
