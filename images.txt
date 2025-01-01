@@ -1,3 +1,4 @@
+quay.io/jupyter/pyspark-notebook jupyter-notebook-quay
 cnk3x/xunlei xunlei
 p3terx/aria2-pro aria2
 p3terx/ariang aria2-webui
