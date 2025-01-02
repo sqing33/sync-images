@@ -1,4 +1,5 @@
-quay.io/jupyter/pyspark-notebook jupyter-notebook-quay
+xhofe/alist
+quay.io/jupyter/pyspark-notebook jupyterLab
 cnk3x/xunlei xunlei
 p3terx/aria2-pro aria2
 p3terx/ariang aria2-webui
@@ -6,7 +7,6 @@ cym1102/nginxwebui nginxwebui
 ghcr.io/raywangqvq/bilibili_tool_pro bilibili_tool
 mysql/mysql-server mysql
 nginx
-jupyter/scipy-notebook jupyter-notebook 
 codercom/code-server vscode
 whyour/qinglong qinglong
 lscr.io/linuxserver/qbittorrent qbittorrent
