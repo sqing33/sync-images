@@ -1,4 +1,4 @@
-xhofe/alist
+xhofe/alist alist
 quay.io/jupyter/pyspark-notebook jupyterLab
 cnk3x/xunlei xunlei
 p3terx/aria2-pro aria2
