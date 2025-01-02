@@ -7,7 +7,6 @@ cym1102/nginxwebui nginxwebui
 ghcr.io/raywangqvq/bilibili_tool_pro bilibili_tool
 mysql/mysql-server mysql
 nginx
-codercom/code-server vscode
 whyour/qinglong qinglong
 lscr.io/linuxserver/qbittorrent qbittorrent
 corentinth/it-tools it-tools
