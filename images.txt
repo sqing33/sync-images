@@ -1,6 +1,3 @@
-arm64v8/mongo:4.4.18 mongo
-mongodb/mongodb-community-server mongodb
-azukaar/cosmos-server:latest cosmos
 uozi/nginx-ui:latest nginx-ui
 xhofe/alist alist
 quay.io/jupyter/pyspark-notebook jupyterlab
