@@ -1,3 +1,4 @@
+uozi/nginx-ui:latest nginx-ui
 ghcr.io/imagegenius/immich:latest immich
 xhofe/alist alist
 quay.io/jupyter/pyspark-notebook jupyterlab
