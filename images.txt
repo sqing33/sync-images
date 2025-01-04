@@ -1,3 +1,4 @@
+cym1102/nginxwebui:latest nginxwebui
 gdy666/lucky lucky
 jxxghp/moviepilot-v2:latest moviepilot
 networkstatic/iperf3 iperf3
