@@ -1,12 +1,10 @@
 azukaar/cosmos-server:latest cosmos
 uozi/nginx-ui:latest nginx-ui
-ghcr.io/imagegenius/immich:latest immich
 xhofe/alist alist
 quay.io/jupyter/pyspark-notebook jupyterlab
 cnk3x/xunlei xunlei
 p3terx/aria2-pro aria2
 p3terx/ariang aria2-webui
-cym1102/nginxwebui nginxwebui
 ghcr.io/raywangqvq/bilibili_tool_pro bilibili_tool
 mysql/mysql-server mysql
 nginx
