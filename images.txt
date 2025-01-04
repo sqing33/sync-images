@@ -1,3 +1,4 @@
+dlandon/zoneminder zoneminder
 xhofe/alist alist
 quay.io/jupyter/pyspark-notebook jupyterLab
 cnk3x/xunlei xunlei
