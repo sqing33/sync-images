@@ -1,3 +1,4 @@
+amuluze/amprobe:v1.3.3 amprobe
 uozi/nginx-ui:latest nginx-ui
 xhofe/alist alist
 quay.io/jupyter/pyspark-notebook jupyterlab
