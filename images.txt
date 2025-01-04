@@ -1,3 +1,4 @@
+azukaar/cosmos-server:latest cosmos
 uozi/nginx-ui:latest nginx-ui
 ghcr.io/imagegenius/immich:latest immich
 xhofe/alist alist
