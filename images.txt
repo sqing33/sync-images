@@ -1,10 +1,5 @@
-liwei2633/gopeed gopeed
 bytelang/kplayer:latest kplayer
-emby/embyserver emby
-hamster1963/nezha-dash nezha-dash
 cym1102/nginxwebui:latest nginxwebui
-gdy666/lucky lucky
-jxxghp/moviepilot-v2:latest moviepilot
 networkstatic/iperf3 iperf3
 xhofe/alist alist
 quay.io/jupyter/pyspark-notebook jupyterlab
