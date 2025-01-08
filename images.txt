@@ -1,3 +1,4 @@
+sulinggg/openwrt openwrt
 tiangolo/nginx-rtmp nginx-rtmp
 bytelang/kplayer:latest kplayer
 cym1102/nginxwebui:latest nginxwebui
