@@ -1,4 +1,4 @@
-duplicati/duplicati duplicati
+eftechcombr/bacula bacula
 johngong/baidunetdisk:latest baidunetdisk
 sulinggg/openwrt:armv8 openwrt
 tiangolo/nginx-rtmp nginx-rtmp
