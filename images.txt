@@ -1,3 +1,4 @@
+duplicati/duplicati duplicati
 johngong/baidunetdisk:latest baidunetdisk
 sulinggg/openwrt:armv8 openwrt
 tiangolo/nginx-rtmp nginx-rtmp
