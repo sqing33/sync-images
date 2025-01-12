@@ -1,4 +1,4 @@
-eftechcombr/bacula:15.0.2-catalog bacula
+lscr.io/linuxserver/duplicati:latest duplicati
 johngong/baidunetdisk:latest baidunetdisk
 sulinggg/openwrt:armv8 openwrt
 tiangolo/nginx-rtmp nginx-rtmp
