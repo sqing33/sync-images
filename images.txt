@@ -1,4 +1,4 @@
-gdy666/lucky lucky
+photoprism/photoprism:arm64 photoprism
 henrygd/beszel beszel
 mzz2017/v2raya v2raya
 lscr.io/linuxserver/duplicati:latest duplicati
