@@ -1,3 +1,4 @@
+henrygd/beszel beszel
 mzz2017/v2raya v2raya
 lscr.io/linuxserver/duplicati:latest duplicati
 johngong/baidunetdisk:latest baidunetdisk
