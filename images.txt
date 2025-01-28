@@ -1,4 +1,4 @@
-ypptec/nascab nascab
+ypptec/nascab:3.5.3-arm64 nascab
 photoprism/photoprism photoprism
 ghcr.io/imagegenius/immich:latest immich
 henrygd/beszel beszel
