@@ -1,3 +1,4 @@
+ypptec/nascab nascab
 photoprism/photoprism photoprism
 ghcr.io/imagegenius/immich:latest immich
 henrygd/beszel beszel
