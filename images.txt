@@ -1,5 +1,4 @@
-linuxserver/resilio-sync resilio-sync
-photoprism/photoprism photoprism
+0nylty/dockercopilot dockercopilot
 ghcr.io/imagegenius/immich:latest immich
 henrygd/beszel beszel
 mzz2017/v2raya v2raya
