@@ -1,4 +1,4 @@
-ypptec/nascab:3.5.3-arm64 nascab
+linuxserver/resilio-sync resilio-sync
 photoprism/photoprism photoprism
 ghcr.io/imagegenius/immich:latest immich
 henrygd/beszel beszel
