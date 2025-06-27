@@ -1,1 +1,1 @@
-quiq/registry-ui
+djtm/linux-dash
